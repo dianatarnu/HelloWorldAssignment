@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWordAssignment</string>
+    <string name="button_text">Press Me!</string>
+    <string name="textview"> </string>
+    <string name="hello">Hello World</string>
+</resources>
